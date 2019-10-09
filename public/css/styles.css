@@ -1,0 +1,157 @@
+.col-md-6 .avatar{
+   width: 100px;
+   margin-bottom: 15px;
+}
+
+.pub_image{
+    margin-bottom: 20px;
+}
+
+.navbar-nav .container-avatar,
+.pub_image .container-avatar{
+   width: 35px;
+   height: 35px;
+   border-radius: 900px;
+   overflow: hidden;
+   margin-left: 15px;
+}
+
+.navbar-nav .container-avatar img,
+.pub_image .container-avatar img{
+   width: 100%;
+   
+}
+
+.pub_image .container-avatar{
+    float: left;
+    margin-right: 15px;
+}
+
+.pub_image .data-user{
+    font-weight: bold;
+    line-height: 35px;
+}
+
+.pub_image .data-user .nickname{
+    color: gray;
+}
+
+.pub_image .container-image-pub{
+    width: 95%;
+    margin: 0px auto;
+    overflow: hidden;
+}
+
+.pub_image .container-image-pub .image-timeline img{
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.description-timeline{
+    font-weight: bold;
+}
+.comment-title{
+    color:#b0aeae;
+}
+
+.pub_image .container-image-pub .date-pub{
+    font-weight: normal;
+    color: #b0aeae;
+    font-size: 12px;
+}
+
+.pub_image .like-section{
+    margin-top: -10px;
+}
+.pub_image .like-icon{
+   width: 30px;
+   margin-left: 5px;
+   margin-bottom: 10px;
+}
+
+.pub_image .number_likes{
+    color: #b0aeae;
+    font-size: 18px;
+}
+
+.pub_image .comment-icon{
+   width: 30px;
+   margin-left: 12px;
+   margin-bottom: 10px;
+   margin-right: 12px;
+}
+button.btn.btn-info.btn-lg.btn-sm.btn-danger {
+    margin-top: -10px;
+}
+
+.create-comment #label-comment{
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+nav.navbar.navbar-expand-md.navbar-light.bg-white.shadow-sm {
+position: fixed;
+width: 100%;
+z-index: 100;
+margin-top: -50px;
+
+}
+main{
+margin-top: 50px;
+}
+
+.profile-user{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding: 8px;
+    padding-bottom: 25px;
+    border: 1px solid transparent;
+    border-bottom: 1px #b0aeae solid;
+        
+}
+
+.profile-user:hover{
+    border-radius: 8px;
+    border: 1px solid #cccccc; 
+    transition: 250ms all;
+}
+
+
+.profile-user .profile-avatar{
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 900px;
+    float:left;
+    margin-right: 35px;
+}
+
+.profile-user img{
+    width: 100%;
+    
+}
+
+.profile-info{
+    padding-top: 40px;
+}
+
+.profile-info p{
+    margin: -8px;
+    font-size: 20px;
+    color: #666666;
+}
+.profile-user .date-pub{
+    font-size: 16px;
+    font-style: italic;
+}
+a.link-profile:hover{
+text-decoration: none;
+}
+
+#buscador{
+    margin-bottom: 20px;
+}
+
+
+
